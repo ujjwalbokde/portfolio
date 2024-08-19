@@ -42,7 +42,7 @@ export default function Navbar() {
         {/* Dropdown Menu */}
         <div
           className={`w-full lg:flex lg:items-center lg:w-auto lg:static ${
-            isOpen ? 'absolute top-12 right-0 ' : 'hidden'
+            isOpen ? 'absolute top-12 right-0 mt-5' : 'hidden'
           }`}
         >
           <ul className="lg:flex lg:space-x-8 mx-5 text-2xl">

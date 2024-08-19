@@ -12,7 +12,7 @@ export default function Navbar() {
     });
   };
   return (
-    <nav className="sticky top-0 p-8">
+    <nav className="sticky top-0 p-5 bg-hero-simple">
       <div className="mx-auto flex justify-between items-center">
         <div className="text-white font-bold text-3xl">
           <Link href="/">My Portfolio</Link>

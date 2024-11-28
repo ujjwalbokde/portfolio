@@ -26,7 +26,7 @@ const Weather = () => {
             conditions wherever they are.
           </p>
           <div className="flex mt-3">
-          <a href="https://weather-api-using-reactjs-indol.vercel.app/" target="_blank" type="button" class="text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Vist Website</a>
+          <a href="https://ujjwal-weather-detector.vercel.app/" target="_blank" type="button" class="text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Vist Website</a>
           <a href="https://github.com/ujjwalbokde/Weather-API-using-reactjs" target="_blank" type="button" class="text-gray-900 bg-gradient-to-r from-red-200 via-red-300 to-yellow-200 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-red-100 dark:focus:ring-red-400 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">GitHub Code</a>
         </div>
         </div>
